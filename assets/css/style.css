@@ -3886,8 +3886,8 @@ select {
   text-align: left;
   background: linear-gradient(-48deg, #54d6eb 0%, #035cdd 100%);
   position: absolute;
-  left: 0;
-  top: -35px;
+  right: 0;
+  top: -74px;
   padding: 90px 60px 65px;
   border-radius: 10px;
   background-repeat: no-repeat;
